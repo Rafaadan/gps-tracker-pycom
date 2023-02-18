@@ -1,12 +1,9 @@
-#!/usr/bin/env python
-#
-# Copyright (c) 2019, Pycom Limited.
-#
-# This software is licensed under the GNU GPL version 3 or any
-# later version, with permitted additional terms. For more information
-# see the Pycom Licence v1.0 document supplied with this file, or
-# available at https://www.pycom.io/opensource/licensing
-#
+###############################################################################
+#               MÁSTER EN INGENIERÍA DE TELECOMUNICACIÓN                      #
+# Autores: Rafael Adán López y David Fernández Martínez                       #
+# Fecha: 17 de enero de 2023                                                  #
+#                                                                             #
+###############################################################################
 
 """ LoPy LoRaWAN Nano Gateway configuration options """
 
@@ -25,15 +22,12 @@ PORT = 1700
 NTP = "pool.ntp.org"
 NTP_PERIOD_S = 3600
 
-WIFI_SSID = 'WIFI SSID'
-WIFI_PASS = 'WIFI PASSWORD'
+#SSID and password of the WiFi
+WIFI_SSID = 'GPS'
+WIFI_PASS = 'GPS12345'
 
 # for EU868
 LORA_FREQUENCY = 868100000
 LORA_GW_DR = "SF7BW125" # DR_5
 LORA_NODE_DR = 5
 
-# for US915
-# LORA_FREQUENCY = 903900000
-# LORA_GW_DR = "SF10BW125" # DR_0
-# LORA_NODE_DR = 0
