@@ -1,3 +1,10 @@
+###############################################################################
+#               MÁSTER EN INGENIERÍA DE TELECOMUNICACIÓN                      #
+# Autores: Rafael Adán López y David Fernández Martínez                       #
+# Fecha: 17 de enero de 2023                                                  #
+#                                                                             #
+###############################################################################
+
 #!/usr/bin/env python
 #
 # Copyright (c) 2019, Pycom Limited.
