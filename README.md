@@ -1,6 +1,6 @@
 # GPS-TRACKER-PYCOM
 
-GPS-TRACKER-PYCOM is a project which aim is to track animals in the rural world with FiPy devices using LoraWAN.
+GPS-TRACKER-PYCOM is a project which aim is to track animals in the rural world with FiPy devices using LoRaWAN.
 
 All the process is documented in the file Informe.pdf. For more information, contact rafaadan6@correo.ugr.es or davidfernxndez@gmail.com.
 
